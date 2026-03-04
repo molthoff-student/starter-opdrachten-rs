@@ -1,0 +1,10 @@
+[workspace]
+resolver = "3"
+members = [
+    "projects/afstanden", 
+    "projects/decimale-combinaties", 
+    "projects/klok-applicatie", 
+    "projects/mijninfo", 
+    "projects/webserver", 
+    "projects/xml-to-json",
+]
